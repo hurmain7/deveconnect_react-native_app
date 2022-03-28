@@ -1,0 +1,2 @@
+app should be 'off' on landscape mode
+header component needs to be created
